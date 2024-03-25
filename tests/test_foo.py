@@ -16,6 +16,3 @@ def test_quotient():
 def test_difference():
     assert difference(4, 2) == 2
 
-
-def test_sum_incorrect():
-    assert sum_(1, 2) == 4
